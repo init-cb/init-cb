@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## This is cb, you could call me Bo. I'm a graduate student who majors in BME of CCMU Xuanwu hospital in China. These days i am currently working on the application of dl in MRI.
+
+🎶🎶if you want to contact me, you could email to init_cb@163.com.
 <!--
 **init-cb/init-cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
