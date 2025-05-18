@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### You could call me Bo. I'm a graduate student who majors in BME of CCMU Xuanwu hospital in China.
+### I'm a Ph.D student at PUMC Fuwai hospital in China.
 
 if you want to contact me, you could email to init_cb@163.com.
 <!--
