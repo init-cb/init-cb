@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 ### I'm current a Ph.D student at PUMC Fuwai hospital.
-🌱 I’m currently specialized in BMC. 
-🔭 I’m currently working on AI4Med, especially on automatic diagnosis of Cardiovascular/ Carotid/ Brain MRI and PET.
-🔭 I also did some work on vision-language alignment, model distillation, LLM and VLM.
-🤔 I’m looking for coorperation with sb. who is working on VLM or CMR.
+#### 🌱 I’m currently specialized in BMC. 
+#### 🔭 I’m currently working on AI4Med, especially on automatic diagnosis of Cardiovascular/ Carotid/ Brain MRI and PET.
+#### 🔭 I also did some work on vision-language alignment, model distillation, LLM and VLM.
+#### 🤔 I’m looking for coorperation with sb. who is working on VLM or CMR.
 
-📫 if you want to contact me, you could email to init_cb@163.com.
+#### 📫 if you want to contact me, you could email to init_cb@163.com.
 
 <!--
 **init-cb/init-cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
